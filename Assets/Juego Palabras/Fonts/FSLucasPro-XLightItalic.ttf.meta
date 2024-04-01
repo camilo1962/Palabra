@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: c44f779d3afee4c7ca93fe6ed9287292
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FS Lucas Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 54b29131997ad4c4a8a704865f44f0bc, type: 3}
+  - {fileID: 12800000, guid: 81b80d3a7be9b442ba258f8a1d96736d, type: 3}
+  - {fileID: 12800000, guid: 047ae8850cc4e42ceab94a04193104b2, type: 3}
+  - {fileID: 12800000, guid: 10da3580ac9494ff1b56715c8ae66ad5, type: 3}
+  - {fileID: 12800000, guid: a315da41c908d48d9aec53fa061caf70, type: 3}
+  - {fileID: 12800000, guid: a1a999cca680d42c5a1a91a387cef163, type: 3}
+  - {fileID: 12800000, guid: 018ed6a99aa744159b5c86332643aa03, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

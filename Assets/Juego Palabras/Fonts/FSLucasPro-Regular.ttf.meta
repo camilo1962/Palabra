@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: de5fbfcefc4024681ba0f955f2e5a9c2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FS Lucas Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 54b29131997ad4c4a8a704865f44f0bc, type: 3}
+  - {fileID: 12800000, guid: c44f779d3afee4c7ca93fe6ed9287292, type: 3}
+  - {fileID: 12800000, guid: 81b80d3a7be9b442ba258f8a1d96736d, type: 3}
+  - {fileID: 12800000, guid: 99a3fbd7ec89146fa93d53c3d6a5d20d, type: 3}
+  - {fileID: 12800000, guid: 092751d000b14484db94f2d0b43d8778, type: 3}
+  - {fileID: 12800000, guid: 8b6058cfac39a4b56ba9664062e64ce6, type: 3}
+  - {fileID: 12800000, guid: 8d5bc070b44a24b14bdd84b3b5a38116, type: 3}
+  - {fileID: 12800000, guid: 047ae8850cc4e42ceab94a04193104b2, type: 3}
+  - {fileID: 12800000, guid: 9b415d11f6cda496485e5f7110f165ae, type: 3}
+  - {fileID: 12800000, guid: 4df55db77dc664aecb016f3cb1f39ac9, type: 3}
+  - {fileID: 12800000, guid: 10da3580ac9494ff1b56715c8ae66ad5, type: 3}
+  - {fileID: 12800000, guid: 092ca0f33d73a4eb194f02b783923042, type: 3}
+  - {fileID: 12800000, guid: a315da41c908d48d9aec53fa061caf70, type: 3}
+  - {fileID: 12800000, guid: a1a999cca680d42c5a1a91a387cef163, type: 3}
+  - {fileID: 12800000, guid: 9ee27ea7c61b74cbba467ddaf67e0e22, type: 3}
+  - {fileID: 12800000, guid: 018ed6a99aa744159b5c86332643aa03, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
